@@ -7,17 +7,14 @@ like we say google everything you feel curious about
 ask qustions to those who know much like during the lucture or any places else 
 keep tring and some how it will done that's what I'm sure about**
 
+*markdown features*
+**bold**
+*italic*
+*list
+*item
+*item
+**links**
+http://github.com - automatic!
+**and also images**
 
-}
-
-.markdown-body * {
-    font-family: inherit;
-}
-
-.markdown-body p {
-    line-height: inherit;
-}
-
-.markdown-body>p:last-child {
-    margin-bottom: 0;
-}
+# This is an <h1> tag
