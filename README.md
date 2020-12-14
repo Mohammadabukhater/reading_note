@@ -14,7 +14,6 @@ keep tring and some how it will done that's what I'm sure about**
 *item
 *item
 **links**
-http://github.com - automatic!
-**and also images**
+http://github.com 
 
 # This is an <h1> tag
